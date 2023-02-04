@@ -6,4 +6,4 @@ games {"rdr3"}
 client_scripts {
    'client.lua',
 }
---this changes weapon & melee dmg
+--this disable the option to break Free
